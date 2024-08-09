@@ -1,0 +1,20 @@
+Question 2. Explain the Git Workflow, including the staging area, working directory, and repository.
+
+Solutions:
+
+Sure, here's a concise explanation of the Git workflow:
+
+1. Working Directory: 
+   - Your local copy of project files.
+   - Where you make changes.
+
+2. Staging Area (Index):
+   - Intermediate space to prepare changes.
+   - Use `git add` to stage changes.
+
+3. Repository:
+   - Permanent storage of project history.
+   - Commits represent snapshots of the project.
+   - Use `git commit` to save staged changes.
+
+The workflow involves modifying files in the working directory, staging changes for commit in the staging area, and then committing those changes to the repository.

@@ -1,0 +1,15 @@
+Question 6: Deploy Tailwind projects named Youtube, slack, and Gmail clones on GitHub pages and share the deployed link of those three. Expected output - Live hosted URL Link of your deployed respective website with GitHub pages.
+
+Solution:
+
+
+   Project Name : Resume Template
+   Project Deployed link: https://ajit180.github.io/Resume-Template-Project/
+ 
+
+   Project Name : Red Bus Clone
+   Project Deployed link: https://ajit180.github.io/Red-Bus-Homepage-Clone/
+
+
+   Project Name : Gmail Clone
+   Project Deployed Link : https://ajit180.github.io/Gmail-Clone/
